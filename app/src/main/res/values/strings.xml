@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessIt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="got_it">Got It\n</string>
+    <string name="skip">Skip</string>
+    <string name="you_scored">You Scored\n</string>
+    <string name="play_again">Play Again\n</string>
+</resources>
